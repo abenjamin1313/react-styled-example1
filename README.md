@@ -1,3 +1,10 @@
+## Simple React Project Using Styling Componets
+
+Styled-components is a popular library that is used to style React applications. It allows you to build custom components by writing actual CSS in your JavaScript.
+[reference](https://dev.to/elijahtrillionz/complete-guide-on-how-to-use-styled-components-in-react-360c)
+
+![alt text](https://github.com/abenjamin1313/react-styled-example1/print-screen.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
